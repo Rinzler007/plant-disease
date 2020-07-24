@@ -1,5 +1,5 @@
 # Plant Disease Detection
-Code for the paper On Using Transfer Learning For Plant Disease Detection
+Code for the paper `On Using Transfer Learning For Plant Disease Detection`.
 
 Link to [Paper](https://abhinavsagar.github.io/files/plant_cnn.pdf)
 
@@ -29,7 +29,11 @@ The dataset can be downloaded from [here](https://github.com/spMohanty/PlantVill
 
 ![loss/accuracy](images/plant1.png)
 
-### Loss/Accuracy vs Epoch
+### Loss vs Epoch
+
+![loss/accuracy](images/plant4.png)
+
+### Accuracy vs Epoch
 
 ![loss/accuracy](images/plant2.png)
 
