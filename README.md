@@ -1,7 +1,7 @@
 # Plant Disease Detection
 Code for the paper `On Using Transfer Learning For Plant Disease Detection`.
 
-Link to [Paper](https://abhinavsagar.github.io/files/plant_cnn.pdf)
+Link to [Paper](https://abhinavsagar.github.io/files/plant_cnn.pdf).
 
 ## Data
 
@@ -40,6 +40,10 @@ The dataset can be downloaded from [here](https://github.com/spMohanty/PlantVill
 ### Confusion Matrix
 
 ![roc-auc](images/plant3.png)
+
+### Comparison of pre trained weights on results
+
+![roc-auc](images/plant5.png)
 
 ## Citing
 
