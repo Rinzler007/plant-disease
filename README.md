@@ -64,6 +64,8 @@ The dataset can be downloaded from [here](https://github.com/spMohanty/PlantVill
 
 If you find this code useful in your research, please consider citing the paper:
 
+BibTex:
+
 ```
 @article{sagar2020using,
   title={On Using Transfer Learning For Plant Disease Detection},
@@ -73,6 +75,10 @@ If you find this code useful in your research, please consider citing the paper:
   publisher={Cold Spring Harbor Laboratory}
 }
 ```
+
+APA:
+
+`Sagar, A., & Dheeba, J. (2020). On Using Transfer Learning For Plant Disease Detection. bioRxiv.`
 
 ## License
 
