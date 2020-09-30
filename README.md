@@ -1,4 +1,5 @@
-# Plant Disease Detection
+# On Using Transfer Learning For Plant Disease Detection
+
 Code for the paper `On Using Transfer Learning For Plant Disease Detection`.
 
 https://abhinavsagar.github.io/files/plant_cnn.pdf
