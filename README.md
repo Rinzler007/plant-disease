@@ -4,6 +4,26 @@ Code for the paper `On Using Transfer Learning For Plant Disease Detection`.
 
 https://abhinavsagar.github.io/files/plant_cnn.pdf
 
+## Citing
+
+If you find this code useful in your research, please consider citing the paper:
+
+BibTex:
+
+```
+@article{sagar2020using,
+  title={On Using Transfer Learning For Plant Disease Detection},
+  author={Sagar, Abhinav and Dheeba, J},
+  journal={bioRxiv},
+  year={2020},
+  publisher={Cold Spring Harbor Laboratory}
+}
+```
+
+APA:
+
+`Sagar, A., & Dheeba, J. (2020). On Using Transfer Learning For Plant Disease Detection. bioRxiv.`
+
 ## Abstract
 
 Deep neural networks has been highly successful in image classification problems. In this paper, we show how neural networks can be used for plant disease
@@ -59,25 +79,6 @@ The dataset can be downloaded from [here](https://github.com/spMohanty/PlantVill
 
 ![roc-auc](images/plant5.png)
 
-## Citing
-
-If you find this code useful in your research, please consider citing the paper:
-
-BibTex:
-
-```
-@article{sagar2020using,
-  title={On Using Transfer Learning For Plant Disease Detection},
-  author={Sagar, Abhinav and Dheeba, J},
-  journal={bioRxiv},
-  year={2020},
-  publisher={Cold Spring Harbor Laboratory}
-}
-```
-
-APA:
-
-`Sagar, A., & Dheeba, J. (2020). On Using Transfer Learning For Plant Disease Detection. bioRxiv.`
 
 ## License
 
